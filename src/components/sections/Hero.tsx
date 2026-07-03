@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { ArrowRight, Download, Mail, ChevronDown } from "lucide-react";
 
 const roles = [
-  "Backend Software Engineer",
+  "Fullstack Software Engineer",
   "Data Science Student",
   "ML Engineer in Training",
 ];
@@ -89,7 +89,7 @@ export default function Hero() {
           transition={{ duration: 0.6, delay: 0.3 }}
           className="text-white/50 text-base sm:text-lg leading-relaxed max-w-xl mx-auto mb-10"
         >
-          I build backend systems that hold up under real conditions &mdash; payment
+          I build scalable systems that hold up under real conditions &mdash; payment
           middleware that can&apos;t lose a transaction, auth that can&apos;t leak a
           session, queues that can&apos;t drop a job.
         </motion.p>

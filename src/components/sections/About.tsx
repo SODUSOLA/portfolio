@@ -34,7 +34,7 @@ export default function About() {
           className="space-y-5 text-white/60 text-base sm:text-lg leading-relaxed"
         >
           <p>
-            I&apos;m a backend software engineer based in Lagos, building production systems
+            I&apos;m a fullstack software engineer based in Lagos, building production systems
             with Node.js, TypeScript, PostgreSQL, and Redis &mdash; currently deepening into
             Python and machine learning through a B.Sc. in Data Science at the University of
             Lagos.

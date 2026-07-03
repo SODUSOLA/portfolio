@@ -30,7 +30,7 @@ export default function Footer() {
               SO<span className="text-accent-blue">.</span>
             </a>
             <p className="text-white/30 text-sm mt-1">
-              Backend Software Engineer &middot; Lagos, Nigeria
+              Fullstack Software Engineer &middot; Lagos, Nigeria
             </p>
           </div>
 

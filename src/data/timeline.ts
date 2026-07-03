@@ -10,7 +10,7 @@ export interface TimelineEntry {
 export const timeline: TimelineEntry[] = [
   {
     id: "halocity-aegis",
-    period: "2026 · Ongoing",
+    period: "2026 · Finished",
     title: "KingdomHack & Nomba Infrastructure Hackathon",
     org: "Independent",
     description: "Built HaloCity — real-time three-role incident management system, reached Stage 3. Currently building AEGIS, a subscription billing engine for the Nomba API ecosystem.",
